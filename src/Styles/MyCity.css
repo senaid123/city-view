@@ -1,0 +1,17 @@
+body {
+  background-color: #2b6777;
+}
+.myCity {
+  margin-top: 10px;
+  padding: 35px;
+  background-color: #2b6777;
+  color: #ffff;
+  display: block;
+}
+h1 {
+  float: left;
+}
+p {
+  margin-top: 40px;
+  font-size: 20px;
+}

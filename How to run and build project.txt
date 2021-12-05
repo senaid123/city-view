@@ -1,0 +1,8 @@
+
+npm i firebase
+npm i react-router-dom
+
+npm start 
+
+
+Nothing else external was installed in the project.
